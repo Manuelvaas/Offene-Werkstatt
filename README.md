@@ -5,3 +5,7 @@ Hallo und Wilkommen auf unserem Repository! Hier findest du Aufgaben und Lösung
 Web-IDE:
 
 https://manuelvaas.org:8000/
+
+Discord:
+
+https://discord.gg/RuPJDsg
